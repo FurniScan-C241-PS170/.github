@@ -25,7 +25,7 @@ So, these are the people behind the FurniScan app who give everything for this p
 | Machine Learning        | M007D4KX2221   | [Epiphany Shavna Gracia](link github) | [Epiphany Shavna Gracia](link linkedin)      |
 | Machine Learning             | M009D4KY1866   | [Muhammad Fatarsyah Hardeva](link github) | [Muhammad Fatarsyah Hardeva](link linkedin)      |
 | Machine Learning             | M691D4KY2485   | [Akbar Ihsanul Ahadin](link github) | [Akbar Ihsanul Ahadin](link linkedin)      |
-| Cloud Computing    | C007D4KX0614   | [Haniifa Aliila Faudyta](link github) | [Haniifa Aliila Faudyta](https://www.linkedin.com/in/haniifa-aliila-faudyta/)      |
+| Cloud Computing    | C007D4KX0614   | [Haniifa Aliila Faudyta](https://github.com/Haniifaa/) | [Haniifa Aliila Faudyta](https://www.linkedin.com/in/haniifa-aliila-faudyta/)      |
 | Cloud Computing      | C547D4NY1337   | [Muhammad Fauzan Irawan Sugiarto](https://github.com/muhammadfauzanis/) | [Muhammad Fauzan Irawan Sugiarto](https://www.linkedin.com/in/muhammadfauzanis/)      |
 | Mobile Development      | A007D4KX3900   | [Jesica Trivena Sinaga](link github) | [Jesica Trivena Sinaga](https://www.linkedin.com/in/jesica-trivena/)      |
 | Mobile Development | A121D4KY3911   | [Mukhammad Hafiz Bima Ibrahim](link github) | [Mukhammad Hafiz Bima Ibrahim](link linkedin)      |
