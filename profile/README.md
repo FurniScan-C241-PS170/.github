@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="app_logo.png" alt="Furni Scan" width="300">
+  <img src="logo.jpeg" alt="Furni Scan" width="300">
 </div>
 
 # FurniScan App - Created by C241-PS170 Capstone Project Bangkit Academy 2024 H1
