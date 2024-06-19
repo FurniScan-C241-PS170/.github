@@ -24,7 +24,7 @@ So, these are the people behind the FurniScan app who give everything for this p
 |------------------------------|---------------|-----------------------|-----------------------------------|
 | Machine Learning        | M007D4KX2221   | [Epiphany Shavna Gracia](https://github.com/grachhe/) | [Epiphany Shavna Gracia](https://www.linkedin.com/in/epiphany-shavna-gracia/)      |
 | Machine Learning             | M009D4KY1866   | [Muhammad Fatarsyah Hardeva](https://github.com/mfatarsyah) | [Muhammad Fatarsyah Hardeva](https://www.linkedin.com/in/muhammad-fatarsyah-hardeva/)      |
-| Machine Learning             | M691D4KY2485   | [Akbar Ihsanul Ahadin](link github) | [Akbar Ihsanul Ahadin](link linkedin)      |
+| Machine Learning             | M691D4KY2485   | [Akbar Ihsanul Ahadin](https://github.com/xitsaix) | [Akbar Ihsanul Ahadin](https://www.linkedin.com/in/akbar-ihsanul-ahadin)      |
 | Cloud Computing    | C007D4KX0614   | [Haniifa Aliila Faudyta](https://github.com/Haniifaa/) | [Haniifa Aliila Faudyta](https://www.linkedin.com/in/haniifa-aliila-faudyta/)      |
 | Cloud Computing      | C547D4NY1337   | [Muhammad Fauzan Irawan Sugiarto](https://github.com/muhammadfauzanis/) | [Muhammad Fauzan Irawan Sugiarto](https://www.linkedin.com/in/muhammadfauzanis/)      |
 | Mobile Development      | A007D4KX3900   | [Jesica Trivena Sinaga](link github) | [Jesica Trivena Sinaga](https://www.linkedin.com/in/jesica-trivena/)      |
