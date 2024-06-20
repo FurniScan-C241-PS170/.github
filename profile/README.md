@@ -6,8 +6,6 @@
 
 Hello! 👋 Welcome to the FurniScan app showcase! This app can enhance your experience during buying some furniture for your lovely home.
 
-NANTI TARO GIF DI SINI......!!!!!
-
 ## 🛋️ Project Overview
 
 FurniScan is a mobile application that combines machine learning and cloud computing to enhance your offline furniture shopping experience. With FurniScan, you can instantly access detailed product information via your smartphone, eliminating the need to wait for assistance in crowded stores. Enhance your shopping efficiency and satisfaction with our cutting-edge technology.
